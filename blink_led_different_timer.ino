@@ -11,6 +11,8 @@ float value = 0;
 float value1 = 0;
 float value2 = 0;
 float value3 = 0;
+int led5 = 0;
+print("hello word");
 int Led1 = 0;
 int Led2 = 0;
 int Led3 = 0;
