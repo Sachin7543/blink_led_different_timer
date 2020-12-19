@@ -11,7 +11,6 @@ float value = 0;
 float value1 = 0;
 float value2 = 0;
 float value3 = 0;
-float value4 = 0
 int Led1 = 0;
 int Led2 = 0;
 int Led3 = 0;
